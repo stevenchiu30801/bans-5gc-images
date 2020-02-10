@@ -1,0 +1,3 @@
+[submodule "free5gc-images"]
+	path = free5gc-images
+	url = https://github.com/stevenchiu30801/free5gc-images
